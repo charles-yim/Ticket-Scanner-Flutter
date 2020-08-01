@@ -1,5 +1,5 @@
 # Ticket Scanner Flutter
-Scans given ticket using firebase_ml_vision to read and interpret text from camera.
+Scans given ticket using firebase_ml_vision to read and interpret text from camera. Designed specifically for custom tickets but could be modified.
 Interprets the following:
 * Customer/Name
 * Tel
