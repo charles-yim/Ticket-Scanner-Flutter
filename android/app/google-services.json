@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40901276244",
+    "firebase_url": "https://ticketscanner-50a71.firebaseio.com",
+    "project_id": "ticketscanner-50a71",
+    "storage_bucket": "ticketscanner-50a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40901276244:android:c6aa90671a0d92e1deb3c1",
+        "android_client_info": {
+          "package_name": "com.charlesyim.ticketscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40901276244-2oqeiff7ljtq3laqlu4slf3evkgt3r15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcF_-LoC_ysptOKnLLc90IPDGNA6ftRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40901276244-2oqeiff7ljtq3laqlu4slf3evkgt3r15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
